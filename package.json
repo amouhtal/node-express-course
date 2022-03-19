@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "express": "^4.17.3"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "express-server-intro",
+  "description": "## Description",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amouhtal/node-express-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amouhtal/node-express-course/issues"
+  },
+  "homepage": "https://github.com/amouhtal/node-express-course#readme"
 }
